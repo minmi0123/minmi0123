@@ -5,6 +5,15 @@
   Java · Spring 기반 서버 개발을 좋아하고, 떠오르는 아이디어는 사이드 프로젝트로 직접 만들어 봅니다.
 </p>
 
+<p align="center">
+  <a href="https://app.notion.com/p/Backend-Engineer-Portfolio-37a4195cc22081548ad5f38c27dcba91?source=copy_link">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://gallery-k.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-EE7B26?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog" />
+  </a>
+</p>
+
 ---
 
 ### 🛠 기술 스택
@@ -47,6 +56,13 @@
 | [lotto-lab](https://github.com/minmi0123/lotto-lab) | 로또 번호 데이터를 분석하고 다뤄보는 실험 프로젝트 |
 | [WorkvivalKit](https://github.com/minmi0123/WorkvivalKit) | 직장 생활에 도움이 되는 유틸리티 모음 |
 | [lifecaluclate](https://github.com/minmi0123/lifecaluclate) | 일상 속 계산을 도와주는 라이프 계산기 |
+
+---
+
+### 🔗 Links
+
+- 📄 **포트폴리오** — [Backend Engineer Portfolio](https://app.notion.com/p/Backend-Engineer-Portfolio-37a4195cc22081548ad5f38c27dcba91?source=copy_link)
+- ✍️ **블로그** — [gallery-k.tistory.com](https://gallery-k.tistory.com/)
 
 ---
 
