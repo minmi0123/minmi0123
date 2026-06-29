@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.notion.com/p/Backend-Engineer-Portfolio-37a4195cc22081548ad5f38c27dcba91?source=copy_link">
+  <a href="https://www.notion.so/Backend-Engineer-Portfolio-37a4195cc22081548ad5f38c27dcba91">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://gallery-k.tistory.com/">
@@ -61,7 +61,7 @@
 
 ### 🔗 Links
 
-- 📄 **포트폴리오** — [Backend Engineer Portfolio](https://app.notion.com/p/Backend-Engineer-Portfolio-37a4195cc22081548ad5f38c27dcba91?source=copy_link)
+- 📄 **포트폴리오** — [Backend Engineer Portfolio](https://www.notion.so/Backend-Engineer-Portfolio-37a4195cc22081548ad5f38c27dcba91)
 - ✍️ **블로그** — [gallery-k.tistory.com](https://gallery-k.tistory.com/)
 
 ---
